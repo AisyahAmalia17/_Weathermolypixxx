@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "D:/SanberCampus/finalproject/venv/Scripts/python.exe",
+		"code-runner.executorMap": {"python": "call D:/SanberCampus/finalproject/venv/Scripts/activate.bat && python -u"}
+}
+}
